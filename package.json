@@ -1,5 +1,5 @@
 {
-  "name": "linkedin-bot",
+  "name": "@mr_internetix/linkedin-bot",
   "version": "1.0.0",
   "description": "linkedin bot for connecting Human Resources",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "dev": "nodemon index.js"
   },
   "bin": {
-    "linkedin-bot": "/bin/index.js"
+    "@mr_internetix/linkedin-bot": "/bin/index.js"
   },
   "repository": {
     "type": "git",
